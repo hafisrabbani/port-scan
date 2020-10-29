@@ -1,6 +1,6 @@
 # port-scan
 
-$git clone https://github.com/hafisrabbani/port-scan.git
+$git clone https://github.com/hafisrabbani/port-scan.git \
 $php find.php
 
 

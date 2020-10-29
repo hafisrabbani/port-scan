@@ -14,7 +14,7 @@ $biru = "\e[34m";
                                       \/     \/     \/     \/     \/     \/ \n");
 		echo "$abang ===================================== \n";
 		echo "$biru Author    : $puti   Hafis Rabbani \n";
-		echo "$biru Github    : $puti   github.com/hafisrbbni \n";
+		echo "$biru Github    : $puti   github.com/hafisrabbani \n";
 		echo "$biru Instagram :	$puti@hafisrbbni_ \n";
 		echo "$abang ===================================== \n";
 		echo "$kuning don't use [HTTP/HTTPS] ex : domain.com => $puti ";
